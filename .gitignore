@@ -1,0 +1,7 @@
+# Local configuration files
+.ipynb_checkpoints
+__pycache__
+.cache
+
+# Environment variables
+.env
